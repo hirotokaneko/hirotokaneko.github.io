@@ -24,10 +24,15 @@ layout: default
 
 ## 演奏動画
 キーボードを担当
-* T-SQAURE のカバー
-* Deep Purple のカバー
-* 邦楽ロックのカバー
+* T-SQAURE のカバー - Truth, Travelers, Omens of Love
+{% include youtube.html id="ts2wrf0xiUg" %}
+
+* Deep Purple のカバー - Burn, Smoke on the Water, Speed King, Highway Star
+{% include youtube.html id="fx7VPn9PeQ4" %}
+
+* 邦楽ロックのカバー - イノチミジカシコイセヨオトメ, 恋人ごっこ
+{% include youtube.html id="8Y1sUnr0pCI" %}
 
 ## 作曲の試み
 DTM でデモを作成。使用 DAW: Logic
-
+{% include song01.html %}
