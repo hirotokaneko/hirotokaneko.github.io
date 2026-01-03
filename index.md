@@ -8,9 +8,9 @@
 
 ## Plankton From Satellite
 海洋微生物群集をタイプ分けし、それを衛星データで捉えた海色・海水温から予測するモデルを開発
-* 論文: Kaneko H, et al. 2023. Predicting global distributions of eukaryotic plankton communities from satellite data. ISME Comm 3:101 https://doi.org/10.1038/s43705-023-00308-7
-* Github: https://github.com/hirotokaneko/plankton-from-satellite
-* プレスリリース: https://www.kyoto-u.ac.jp/ja/research-news/2023-10-19-2
+* 論文: [Kaneko H, et al. 2023. Predicting global distributions of eukaryotic plankton communities from satellite data. ISME Comm 3:101](https://doi.org/10.1038/s43705-023-00308-7)
+* Github: [plankton-from-satellite](https://github.com/hirotokaneko/plankton-from-satellite)
+* プレスリリース: [京都大学 - プランクトンを宇宙から観測する](https://www.kyoto-u.ac.jp/ja/research-news/2023-10-19-2)
 
 ## Others
 そのほかの研究は下記リンクより
