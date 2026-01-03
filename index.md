@@ -8,10 +8,11 @@ layout: default
 
 余暇は演奏したり作曲したり。
 
-
 # 研究内容
 
 ## Plankton From Satellite
+
+![Satellite](./image/satellite.jpg)
 
 海洋微生物群集をタイプ分けし、それを衛星データで捉えた海色・海水温から予測するモデルを開発
 
@@ -24,18 +25,17 @@ layout: default
 
 * ORCID: [Hiroto Kaneko](https://orcid.org/0000-0002-7127-2551)
 
-
 # 趣味のスペース
 
 ## 演奏動画
 
 キーボードを担当
 
-* T-SQAURE のカバー - Truth, Travelers, Omens Of Love
+### T-SQAURE のカバー - Truth, Travelers, Omens Of Love
 
 {% include youtube.html id="2ieJbCOt-Tk" %}
 
-* Deep Purple のカバー - Burn, Smoke On The Water, Speed King, Highway Star
+### Deep Purple のカバー - Burn, Smoke On The Water, Speed King, Highway Star
 
 {% include youtube.html id="fx7VPn9PeQ4" %}
 
