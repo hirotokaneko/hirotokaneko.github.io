@@ -21,7 +21,7 @@ description: 趣味の成果物の置き場
 
 ## 作曲の試み
 
-DTM でデモを作成。使用 DAW: Logic
+DTM でデモを作成
 
 {% include song01.html %}
 
