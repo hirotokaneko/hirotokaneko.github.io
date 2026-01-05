@@ -10,11 +10,11 @@ description: 趣味の成果物の置き場
 
 キーボードを担当
 
-### T-SQAURE のカバー - Truth, Travelers, Omens Of Love
+### Route 1 Electric Band - Truth, Travelers, Omens Of Love (T-SQUARE)
 
 {% include youtube.html id="2ieJbCOt-Tk" %}
 
-### Deep Purple のカバー - Burn, Smoke On The Water, Speed King, Highway Star
+### Deep Pot - Burn, Smoke On The Water, Speed King, Highway Star (Deep Purple)
 
 {% include youtube.html id="fx7VPn9PeQ4" %}
 

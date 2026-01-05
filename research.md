@@ -30,4 +30,4 @@ description: 研究内容の紹介
 
 * ORCID: [Hiroto Kaneko](https://orcid.org/0000-0002-7127-2551)
 
-[back](./)
+[back](https://hirotokaneko.github.io/)
