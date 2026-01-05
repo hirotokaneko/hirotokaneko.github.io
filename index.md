@@ -12,8 +12,8 @@ description: ホームページ
 
 # コンテンツ
 
-[研究内容](./research.md)
+[研究内容](https://hirotokaneko.github.io/research.html)
 
-[趣味のスペース](./hobby.md)
+[趣味のスペース](https://hirotokaneko.github.io/hobby.html)
 
-[ブログ](./blog.md)
+[ブログ](https://hirotokaneko.github.io/blog.html)

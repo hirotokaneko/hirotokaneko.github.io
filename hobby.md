@@ -29,4 +29,4 @@ DTM でデモを作成
 
 {% include song03.html %}
 
-[back](./)
+[back](https://hirotokaneko.github.io/)
