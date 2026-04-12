@@ -10,14 +10,17 @@ description: 趣味の成果物の置き場
 
 キーボードを担当
 
-### Route 1 Electric Band - Truth, Travelers, Omens Of Love (T-SQUARE)
+### Route 1 Electric Band - T-SQUARE のコピー
 
 {% include youtube.html id="2ieJbCOt-Tk" %}
 
-### Deep Pot - Burn, Smoke On The Water, Speed King, Highway Star (Deep Purple)
+### Deep Pot - Deep Purple のコピー
 
 {% include youtube.html id="fx7VPn9PeQ4" %}
 
+### Roter Vogel - 邦楽ロックのコピー&オリジナル
+
+{% include youtube.html id="gR6UPOP1aIY" %}
 
 ## 作曲の試み
 
